@@ -6,7 +6,7 @@ Google Flu Trends and the CDC's virologic surveillance reports.
 Please cite the following paper for the use of this dataset:
 
 ```
-@article{zhao2018effects,
+@article{Zhao2018,
   title={The effects of synoptic weather on influenza infection incidences: a retrospective study utilizing digital disease surveillance},
   author={Zhao, Naizhuo and Cao, Guofeng and Vanos, Jennifer K and Vecellio, Daniel J},
   journal={International journal of biometeorology},
